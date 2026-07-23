@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MockingAndStubbing" />
+        <module name="VerifyingInteractions" />
+        <module name="orm-learn" />
+        <module name="SettingUpJUnit" />
+        <module name="spring-learn" />
+        <module name="CountryXml" />
+        <module name="DependencyInjection" />
+        <module name="MavenProjectConfiguration" />
+        <module name="authentication-service" />
+        <module name="Arrange-Act-AssertPattern" />
+        <module name="CountryWebServices" />
+        <module name="LibraryManagement" />
+        <module name="LoggingExampleSLF4J" />
+        <module name="Country" />
+        <module name="CountryCode" />
+        <module name="HelloXML" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ArrangeActAssertPattern" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Country" options="-parameters" />
+      <module name="authentication-service" options="-parameters" />
+      <module name="orm-learn" options="-parameters" />
+    </option>
+  </component>
+</project>

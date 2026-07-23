@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Week2/SettingUpJUnit/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2/AssertionsJUnit/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2/Arrange-Act-AssertPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2/MockingAndStubbing/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2/VerifyingInteractions/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2/LoggingExampleSLF4J/pom.xml" />
+        <option value="$PROJECT_DIR$/Week3/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/Week3/DependencyInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/Week3/MavenProjectConfiguration/pom.xml" />
+        <option value="$PROJECT_DIR$/Week3/orm-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Week4/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/Week4/Country/pom.xml" />
+        <option value="$PROJECT_DIR$/Week4/CountryCode/pom.xml" />
+        <option value="$PROJECT_DIR$/Week4/CountryWebServices/pom.xml" />
+        <option value="$PROJECT_DIR$/Week4/CountryXml/pom.xml" />
+        <option value="$PROJECT_DIR$/Week4/HelloXML/pom.xml" />
+        <option value="$PROJECT_DIR$/Week4/spring-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/Week4/authentication-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Week2/AssertionsJUnit/ArrangeActAssertPattern/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="temurin-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
